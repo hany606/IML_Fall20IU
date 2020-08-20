@@ -1,0 +1,3 @@
+[submodule "extra/PythonDataScienceHandbook"]
+	path = extra/PythonDataScienceHandbook
+	url = git@github.com:jakevdp/PythonDataScienceHandbook.git
